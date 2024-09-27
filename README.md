@@ -1,6 +1,6 @@
 - Meu nome é Lucas Rezende e estou estudando no Alura.
 
-- um video incrivel: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+- https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ![](https://media1.tenor.com/m/Kq_bAI7JRDkAAAAC/byuntear-cat.gif)
 
